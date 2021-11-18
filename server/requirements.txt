@@ -1,0 +1,5 @@
+tornado==6.1
+requests==2.23.0 
+PyMySQL==1.0.2
+DBUtils==2.0.2
+arrow==1.2.1
